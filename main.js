@@ -1,0 +1,1 @@
+console.log('QRScanner main - replace with full main.js from project');
